@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PalindromeApp</string>
+    <string name="selected">Selected User Name</string>
+    <string name="welcome">Welcome</string>
+    <string name="name">Name</string>
+    <string name="palindrome">Palindrome</string>
+    <string name="next">Next</string>
+    <string name="check">Check</string>
+    <string name="second_screen">Second Screen</string>
+    <string name="choose">Choose a User</string>
+</resources>
